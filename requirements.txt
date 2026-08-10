@@ -1,0 +1,6 @@
+matplotlib
+wordcloud
+nltk
+scikit-learn
+xgboost
+pandas
